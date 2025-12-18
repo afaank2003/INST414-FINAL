@@ -1,7 +1,7 @@
 # Predicting Tomorrow’s Hazardous Waves at the Mouth of the Patapsco
 
-This repository contains the code and data for my INST414 final project.  
-The goal is to use a simple machine learning model to predict whether **noon tomorrow** at the mouth of the Patapsco River will be **hazardous** or **calm**, based on today’s buoy measurements.
+This repository contains the code and data for the Patapsco wave prediction project.
+The goal is to use a machine learning model to predict whether **noon tomorrow** at the mouth of the Patapsco River will be **hazardous** or **calm**, based on today’s buoy measurements.
 
 The final project extends an earlier Module 6 assignment by adding a larger multi-year dataset and applying Module 7 evaluation techniques, especially careful model evaluation and decision threshold tuning.
 
